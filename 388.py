@@ -13,4 +13,4 @@ class Solution:
                 current_len = path_lengths[depth] + len(name) + 1
                 path_lengths[depth + 1] = current_len
         
-        return max_len 
+        return max_len
