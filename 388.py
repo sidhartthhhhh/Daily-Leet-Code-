@@ -6,6 +6,7 @@ class Solution:
             name = line.lstrip('\t')
             depth = len(line) - len(name)
       
+      
             if '.' in name:
                 current_len = path_lengths[depth] + len(name)
                 max_len = max(max_len, current_len)
