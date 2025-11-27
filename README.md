@@ -1,0 +1,2 @@
+This repository is dedicated to provide the Leet Code dsa solutions, the solutions uploaded are written in my way, you may have a better one, feel free to share that. Thank you.
+I hope, I'm able to help you.
